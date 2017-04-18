@@ -1,5 +1,5 @@
 # Own webdev hub
-This repository is only meant for me to have access to all my sources everywhere I may go.
+This repository is mainly meant for me to have access to all my sources everywhere I may go.
 It's also a way for me to keep a track of the evolution of my personal projects.
 
 It's probably going to be a horrible mess.
